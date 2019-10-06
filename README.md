@@ -42,6 +42,5 @@ Week:
 1.  Tutorials: "Script as Behavior Components", "Using the Unity Interface", and "Unity Core Concepts". (3 hours)
 2.  Tutorials: "Introduction to Lighting and Rendering" and "2D World Building with Tilemap and Cinemachine". (3 hours)
 3.  Tutorials: "Creating Basic Editor Tools", "Variables and Functions", and "Fixing Performance Problems". (3 hours).
-4.  Tutorials: "Editor Scripting"
-    Projects:  "New User Micro-Game: Platformer". (3 hours)
+4.  Tutorials: "Editor Scripting". Projects:  "New User Micro-Game: Platformer". (3 hours)
 5.  Projects:  "New User Micro-Game: Karting" and "Creator Kit: Beginner Code". (5 hours).
